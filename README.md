@@ -1,5 +1,5 @@
 # Automatic_meeting_summarization
-7th sem B section
+7th sem B section <br>
 Dhruv pai (ENG17CS0069)
 Meghana.V (ENG17CS0125)
 Muppalla Bhargavi (ENG17CS0134)
